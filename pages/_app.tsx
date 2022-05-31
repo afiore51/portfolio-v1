@@ -11,6 +11,7 @@ import "@fontsource/sen/700.css";
 import { NextSeo } from "next-seo";
 import Head from "next/head";
 import Script from "next/script";
+import { ThemeProvider } from "next-themes";
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
@@ -65,7 +66,9 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Head>
         <link rel="icon" type="image/png" href="/assests/avatar.png" />
       </Head>
-      <Component {...pageProps} />
+      <ThemeProvider enableSystem={true} attribute="class">
+        <Component {...pageProps} />
+      </ThemeProvider>
     </>
   );
 }

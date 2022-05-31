@@ -1,5 +1,5 @@
 import type { NextComponentType, NextPageContext } from "next";
-
+import Logo from "../Misc/Logo.component";
 import Link from "next/link";
 import { VscGithubAlt } from "../Misc/Icons.collection";
 
@@ -29,6 +29,7 @@ const Header: NextComponentType = () => {
         <TextLink text="Skills" url="#skills" />
         <TextLink text="Projects" url="#projects" />
         <TextLink text="Contact" url="#contact" />
+        
       </p>
 
       <Link href="https://github.com/kr-anurag/portfolio" passHref>
