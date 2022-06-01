@@ -15,7 +15,7 @@ const About: NextComponentType = () => {
         </p>
 
         <p className="mt-4 dark:text-gray-400">
-          Currently working in a small consulting company, <br /> 
+          Currently working in a small consulting company, <br />
           founded in 2008 and based in Rome, <br />
           intensely active in the field of Data Science throughout Italy. <br />
           Over the past few years i toked several pictures|polaroid, <br />

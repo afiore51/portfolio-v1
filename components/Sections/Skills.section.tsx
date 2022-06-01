@@ -6,11 +6,11 @@ const Skills = () => {
       <p className="text-3xl font-bold dark:text-white">Skills & Uses</p>
 
       <div className="text-md my-8 flex flex-col font-medium md:text-xl custom:text-lg">
-        <p className="flex flex-row items-center border-b-[0.1px] border-gray-500 py-1 dark:text-slate-300 text-slate-800">
+        <pre className="flex flex-row items-center border-b-[0.1px] border-gray-500 py-1 dark:text-slate-300 text-slate-800">
           <BsArrowRightShort size="30" />
           <span className="dark:text-white text-grey">Python</span>
           &nbsp;as my main language
-        </p>
+        </pre>
 
         <p className="flex flex-row items-center border-b-[0.1px] border-gray-500 py-1 dark:text-slate-300 text-slate-800">
           <BsArrowRightShort size="30" />
