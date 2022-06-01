@@ -5,7 +5,7 @@ import Link from "next/link";
 const Projects: NextComponentType = () => {
   return (
     <div className="my-16 px-3 font-sen" id="projects">
-      <p className="text-3xl font-bold text-white">Featured Projects</p>
+      <p className="text-3xl font-bold dark:text-white">Featured Projects</p>
       <div className="my-8 flex flex-col items-center justify-center gap-10 sm:flex-row">
           <a
             className="h-[7rem] w-[14rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#D8B4FE] to-[#818CF8] p-1 text-white duration-100 hover:scale-105"

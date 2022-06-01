@@ -6,7 +6,6 @@ import {
   Projects,
   Skills,
   Contact,
-  NowPlaying,
 } from "../components";
 
 const Home: NextPage = () => {
