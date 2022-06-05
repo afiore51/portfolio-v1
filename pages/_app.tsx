@@ -58,7 +58,7 @@ function MyApp({ Component, pageProps }: AppProps) {
           {
             property: "keywords",
             content:
-              "Frontend Developer, anurag, anuragkr, Web Developer, web development, web developer, blogger, tech enthusiast, open source",
+              "andrea fiore, Andrea Fiore, Data Scientist, data scientist, data analysis, Data Analysis, web developer, tech enthusiast, open source",
           },
         ]}
       />

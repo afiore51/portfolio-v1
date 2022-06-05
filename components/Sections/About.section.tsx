@@ -18,7 +18,7 @@ const About: NextComponentType = () => {
           Currently working in a small consulting company, <br />
           founded in 2008 and based in Rome, <br />
           intensely active in the field of Data Science throughout Italy. <br />
-          Over the past few years i toked several pictures|polaroid, <br />
+          Over the past few years i took several pictures|polaroid, <br />
           made music, read about UI/UX design.
         </p>
 

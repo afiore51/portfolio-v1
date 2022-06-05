@@ -14,7 +14,7 @@ const Projects: NextComponentType = () => {
           >
             <div className="flex h-full w-full flex-col items-center justify-center rounded-lg bg-primary px-2 text-center font-medium">
               <p className="text-xl font-semibold">CBRExpressO</p>
-              <p>Un tool per la Case-Based Reasoning</p>
+              <p>A Case-Based Reasoning tool</p>
             </div>
           </a>
         
