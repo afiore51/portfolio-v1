@@ -35,7 +35,7 @@ const About: NextComponentType = () => {
 
       </div>
 
-      <div className="hidden custom:block">
+      <div className="custom:block">
         <Image
           src="/assests/avatar.png"
           width="112"
